@@ -2,7 +2,7 @@
 <p><b>Pasting</b> is a minimalist publishing tool that allows you to create richly formatted posts and push them to the Web in just a click.
 In simple words it's a website like Telegraph but it can be used as a pastebin too.&nbsp;&nbsp;
 
-<a href="https://go.deta.dev/deploy?repo=https://github.com/viperadnan-git/pasting">
+<a href="https://go.deta.dev/deploy?repo=https://github.com/MR-JAGANMOHAN/pasting-pro">
     <img src="https://button.deta.dev/1/svg" alt="Deploy" height="26">
 </a>
 
